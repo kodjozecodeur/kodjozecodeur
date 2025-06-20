@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Lord Madara
+# 👋 Hey, I'm Kojocode
 
 I'm a Software Engineer passionate about clean code, solid architecture, and building things that just work.
 
