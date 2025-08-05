@@ -19,10 +19,10 @@ I'm a Software Engineer passionate about clean code, solid architecture, and bui
 
 ### 🚀 Projects in Progress
 
-- 🏠 [**Tenant Management System**]([https://github.com/your-username/tenant-manager](https://github.com/kodjozecodeur/tenant-manager.git))  
+- 🏠 [**Tenant Management System**](https://github.com/kodjozecodeur/tenant-manager.git)  
   Full-stack app to manage tenants, leases, and property data. React + Node.js + MongoDB.
 
-- ⚙️ [**Job Plateform for Quick Gigs**]([https://github.com/your-username/laravel-refresh](https://github.com/kodjozecodeur/quickgig-platform.git))  
+- ⚙️ [**Job Plateform for Quick Gigs**](https://github.com/kodjozecodeur/quickgig-platform.git)  
  Bulding a react based job platfform for quick jobs in tech
 
 - 🌐 [**Next.js Portfolio for Creative Sanin**](https://github.com/your-username/nextjs-portfolio)  
@@ -32,9 +32,9 @@ I'm a Software Engineer passionate about clean code, solid architecture, and bui
 
 ### 📫 Reach Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://your-linkedin)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:you@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](www.linkedin.com/in/kojocode)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://kojocode.netlify.app/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samuelmaglodji@gmail.com)
 
 ---
 
