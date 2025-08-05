@@ -19,14 +19,14 @@ I'm a Software Engineer passionate about clean code, solid architecture, and bui
 
 ### 🚀 Projects in Progress
 
-- 🏠 [**Tenant Management System**](https://github.com/your-username/tenant-manager)  
+- 🏠 [**Tenant Management System**]([https://github.com/your-username/tenant-manager](https://github.com/kodjozecodeur/tenant-manager.git))  
   Full-stack app to manage tenants, leases, and property data. React + Node.js + MongoDB.
 
-- ⚙️ [**Laravel Refresh Project**](https://github.com/your-username/laravel-refresh)  
-  Rebuilding a modern Laravel backend to reconnect with the framework.
+- ⚙️ [**Job Plateform for Quick Gigs**]([https://github.com/your-username/laravel-refresh](https://github.com/kodjozecodeur/quickgig-platform.git))  
+ Bulding a react based job platfform for quick jobs in tech
 
-- 🌐 [**Next.js Portfolio**](https://github.com/your-username/nextjs-portfolio)  
-  Portfolio site powered by Next.js — clean, fast, and SEO-friendly.
+- 🌐 [**Next.js Portfolio for Creative Sanin**](https://github.com/your-username/nextjs-portfolio)  
+  Portfolio site powered by Next.js — clean, fast, and SEO-friendly for [**Creative Sanin, a Product designer based in Lagos**](https://creative-sannin-portofolio-r8i1.vercel.app/) .
 
 ---
 
